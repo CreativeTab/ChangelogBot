@@ -7,9 +7,9 @@ ChangelogBot is a bot who allow you to add changelogs for your projects and see 
 
 Example : 
 
-![example](https://github.com/CreativeTab/ChangelogBotPrivate/assets/80975135/c1ed6cce-de48-4367-bfc7-07c525b02469)
+![example4](https://github.com/CreativeTab/ChangelogBot/assets/80975135/3ee753a7-9e2f-4c23-825e-1ce7f729e9c8)
 
-![example2](https://github.com/CreativeTab/ChangelogBotPrivate/assets/80975135/b41f0e6a-9935-4afb-bfab-c6af9fd82252)
+![example3](https://github.com/CreativeTab/ChangelogBot/assets/80975135/3cf99c3c-bb52-4703-865f-fdce081eaf7a)
 
 # Set-up
 
