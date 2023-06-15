@@ -27,11 +27,17 @@ In the changelog.js and update.js files, enter all of your projects with the tem
 
 In the folder changelogs, create a folder for each of your projects. And then copy the template of the folder 'your_project_name'. You need to set an icon.png, and give the color of the embed.
 
+Do not touch the update.json file in commands/changelog/config.
+
 And then, launch the bot with the command :
 
     npm run start
 
 And enjoy ! 
+
+PS : You must run the update command and send the answer to the bot for the first time before any others to initialise it.
+
+If you have any problems, don't hesitate to open an issue - I'll do my best to help you ! 
 
 # contribute to the development
 
