@@ -1,0 +1,6 @@
+{
+	"token": "your_bot_token",
+    "clientId": "your_application_id",
+    "guildId": "your_guild_id",
+    "roleId": "the_role_id"
+}
